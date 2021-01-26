@@ -1,5 +1,5 @@
 # Python Text-Based Adventure Game
-Fight enemies, find and trade items, and defeat a final boss (old-school style).
+Fight enemies, find and trade items, and defeat a final boss to win!
 
 This project displays a culmination of Python skills that I have learned in CIS 122, 210, and 211 at UofO.
 
@@ -15,3 +15,4 @@ To move your character, select the direction you would like to go ("w", "a", "s"
 ## Contact Info
 River Veek
 riverv@uoregon.edu
+
