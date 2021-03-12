@@ -10,7 +10,7 @@ python adventure_V3.py
 ```
 
 Once the game is running, following the onscreen instructions. 
-To move your character, select the direction you would like to go ("w", "a", "s", or "d") followed by the <enter> key.
+To move your character, select the direction you would like to go ("w", "a", "s", or "d") followed by the enter key.
 
 ## Contact Info
 River Veek
